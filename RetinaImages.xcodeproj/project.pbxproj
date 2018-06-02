@@ -13,6 +13,8 @@
 		092DC5C320C34B5000D43B52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 092DC5C220C34B5000D43B52 /* Assets.xcassets */; };
 		092DC5C620C34B5000D43B52 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 092DC5C420C34B5000D43B52 /* LaunchScreen.storyboard */; };
 		092DC5C920C34B5000D43B52 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 092DC5C820C34B5000D43B52 /* main.m */; };
+		092DC5D220C3509700D43B52 /* image1@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 092DC5D120C3509700D43B52 /* image1@2x.jpg */; };
+		092DC5D420C3517800D43B52 /* image1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 092DC5D320C3517800D43B52 /* image1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		092DC5C520C34B5000D43B52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		092DC5C720C34B5000D43B52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		092DC5C820C34B5000D43B52 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		092DC5D120C3509700D43B52 /* image1@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "image1@2x.jpg"; sourceTree = "<group>"; };
+		092DC5D320C3517800D43B52 /* image1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image1.jpg; path = ../../../Pictures/image1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				092DC5C220C34B5000D43B52 /* Assets.xcassets */,
 				092DC5C420C34B5000D43B52 /* LaunchScreen.storyboard */,
 				092DC5C720C34B5000D43B52 /* Info.plist */,
+				092DC5D320C3517800D43B52 /* image1.jpg */,
+				092DC5D120C3509700D43B52 /* image1@2x.jpg */,
 				092DC5C820C34B5000D43B52 /* main.m */,
 			);
 			path = RetinaImages;
@@ -129,7 +135,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				092DC5C620C34B5000D43B52 /* LaunchScreen.storyboard in Resources */,
+				092DC5D420C3517800D43B52 /* image1.jpg in Resources */,
 				092DC5C320C34B5000D43B52 /* Assets.xcassets in Resources */,
+				092DC5D220C3509700D43B52 /* image1@2x.jpg in Resources */,
 				092DC5C120C34B4F00D43B52 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
